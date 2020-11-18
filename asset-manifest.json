@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/anaclaralucero/my-app/static/css/main.6248d95d.chunk.css",
-    "main.js": "/anaclaralucero/my-app/static/js/main.9aefae53.chunk.js",
-    "main.js.map": "/anaclaralucero/my-app/static/js/main.9aefae53.chunk.js.map",
-    "runtime-main.js": "/anaclaralucero/my-app/static/js/runtime-main.ae972f2c.js",
-    "runtime-main.js.map": "/anaclaralucero/my-app/static/js/runtime-main.ae972f2c.js.map",
-    "static/js/2.691a5a87.chunk.js": "/anaclaralucero/my-app/static/js/2.691a5a87.chunk.js",
-    "static/js/2.691a5a87.chunk.js.map": "/anaclaralucero/my-app/static/js/2.691a5a87.chunk.js.map",
-    "index.html": "/anaclaralucero/my-app/index.html",
-    "precache-manifest.bb89349a850cdccd65c2731b7f42d38d.js": "/anaclaralucero/my-app/precache-manifest.bb89349a850cdccd65c2731b7f42d38d.js",
-    "service-worker.js": "/anaclaralucero/my-app/service-worker.js",
-    "static/css/main.6248d95d.chunk.css.map": "/anaclaralucero/my-app/static/css/main.6248d95d.chunk.css.map",
-    "static/js/2.691a5a87.chunk.js.LICENSE.txt": "/anaclaralucero/my-app/static/js/2.691a5a87.chunk.js.LICENSE.txt",
-    "static/media/do.wav": "/anaclaralucero/my-app/static/media/do.18fd3f6f.wav",
-    "static/media/fa.wav": "/anaclaralucero/my-app/static/media/fa.a787534a.wav",
-    "static/media/la.wav": "/anaclaralucero/my-app/static/media/la.10af03f3.wav",
-    "static/media/mi.wav": "/anaclaralucero/my-app/static/media/mi.1f26c778.wav",
-    "static/media/re.wav": "/anaclaralucero/my-app/static/media/re.217b943a.wav",
-    "static/media/si.wav": "/anaclaralucero/my-app/static/media/si.70924435.wav",
-    "static/media/sol.wav": "/anaclaralucero/my-app/static/media/sol.785a33d2.wav"
+    "main.css": "/static/css/main.6248d95d.chunk.css",
+    "main.js": "/static/js/main.a4119ad3.chunk.js",
+    "main.js.map": "/static/js/main.a4119ad3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.691a5a87.chunk.js": "/static/js/2.691a5a87.chunk.js",
+    "static/js/2.691a5a87.chunk.js.map": "/static/js/2.691a5a87.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0ddc495d31f206464de305cbaf38a4ea.js": "/precache-manifest.0ddc495d31f206464de305cbaf38a4ea.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6248d95d.chunk.css.map": "/static/css/main.6248d95d.chunk.css.map",
+    "static/js/2.691a5a87.chunk.js.LICENSE.txt": "/static/js/2.691a5a87.chunk.js.LICENSE.txt",
+    "static/media/do.wav": "/static/media/do.18fd3f6f.wav",
+    "static/media/fa.wav": "/static/media/fa.a787534a.wav",
+    "static/media/la.wav": "/static/media/la.10af03f3.wav",
+    "static/media/mi.wav": "/static/media/mi.1f26c778.wav",
+    "static/media/re.wav": "/static/media/re.217b943a.wav",
+    "static/media/si.wav": "/static/media/si.70924435.wav",
+    "static/media/sol.wav": "/static/media/sol.785a33d2.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae972f2c.js",
+    "static/js/runtime-main.83c3e0c4.js",
     "static/js/2.691a5a87.chunk.js",
     "static/css/main.6248d95d.chunk.css",
-    "static/js/main.9aefae53.chunk.js"
+    "static/js/main.a4119ad3.chunk.js"
   ]
 }
