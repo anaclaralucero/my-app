@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/anaclaralucero/my-app.git/static/css/main.6248d95d.chunk.css",
+    "main.js": "/anaclaralucero/my-app.git/static/js/main.1659e144.chunk.js",
+    "main.js.map": "/anaclaralucero/my-app.git/static/js/main.1659e144.chunk.js.map",
+    "runtime-main.js": "/anaclaralucero/my-app.git/static/js/runtime-main.31dec0e2.js",
+    "runtime-main.js.map": "/anaclaralucero/my-app.git/static/js/runtime-main.31dec0e2.js.map",
+    "static/js/2.691a5a87.chunk.js": "/anaclaralucero/my-app.git/static/js/2.691a5a87.chunk.js",
+    "static/js/2.691a5a87.chunk.js.map": "/anaclaralucero/my-app.git/static/js/2.691a5a87.chunk.js.map",
+    "index.html": "/anaclaralucero/my-app.git/index.html",
+    "precache-manifest.34614e2f2102de554d3fd096b9f59a4c.js": "/anaclaralucero/my-app.git/precache-manifest.34614e2f2102de554d3fd096b9f59a4c.js",
+    "service-worker.js": "/anaclaralucero/my-app.git/service-worker.js",
+    "static/css/main.6248d95d.chunk.css.map": "/anaclaralucero/my-app.git/static/css/main.6248d95d.chunk.css.map",
+    "static/js/2.691a5a87.chunk.js.LICENSE.txt": "/anaclaralucero/my-app.git/static/js/2.691a5a87.chunk.js.LICENSE.txt",
+    "static/media/do.wav": "/anaclaralucero/my-app.git/static/media/do.18fd3f6f.wav",
+    "static/media/fa.wav": "/anaclaralucero/my-app.git/static/media/fa.a787534a.wav",
+    "static/media/la.wav": "/anaclaralucero/my-app.git/static/media/la.10af03f3.wav",
+    "static/media/mi.wav": "/anaclaralucero/my-app.git/static/media/mi.1f26c778.wav",
+    "static/media/re.wav": "/anaclaralucero/my-app.git/static/media/re.217b943a.wav",
+    "static/media/si.wav": "/anaclaralucero/my-app.git/static/media/si.70924435.wav",
+    "static/media/sol.wav": "/anaclaralucero/my-app.git/static/media/sol.785a33d2.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31dec0e2.js",
+    "static/js/2.691a5a87.chunk.js",
+    "static/css/main.6248d95d.chunk.css",
+    "static/js/main.1659e144.chunk.js"
+  ]
+}
