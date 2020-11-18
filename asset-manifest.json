@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.6248d95d.chunk.css",
-    "main.js": "/static/js/main.a4119ad3.chunk.js",
-    "main.js.map": "/static/js/main.a4119ad3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
-    "static/js/2.691a5a87.chunk.js": "/static/js/2.691a5a87.chunk.js",
-    "static/js/2.691a5a87.chunk.js.map": "/static/js/2.691a5a87.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0ddc495d31f206464de305cbaf38a4ea.js": "/precache-manifest.0ddc495d31f206464de305cbaf38a4ea.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6248d95d.chunk.css.map": "/static/css/main.6248d95d.chunk.css.map",
-    "static/js/2.691a5a87.chunk.js.LICENSE.txt": "/static/js/2.691a5a87.chunk.js.LICENSE.txt",
-    "static/media/do.wav": "/static/media/do.18fd3f6f.wav",
-    "static/media/fa.wav": "/static/media/fa.a787534a.wav",
-    "static/media/la.wav": "/static/media/la.10af03f3.wav",
-    "static/media/mi.wav": "/static/media/mi.1f26c778.wav",
-    "static/media/re.wav": "/static/media/re.217b943a.wav",
-    "static/media/si.wav": "/static/media/si.70924435.wav",
-    "static/media/sol.wav": "/static/media/sol.785a33d2.wav"
+    "main.css": "/my-app/static/css/main.6248d95d.chunk.css",
+    "main.js": "/my-app/static/js/main.5829538c.chunk.js",
+    "main.js.map": "/my-app/static/js/main.5829538c.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.58a6d01e.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.58a6d01e.js.map",
+    "static/js/2.691a5a87.chunk.js": "/my-app/static/js/2.691a5a87.chunk.js",
+    "static/js/2.691a5a87.chunk.js.map": "/my-app/static/js/2.691a5a87.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.ea21829948e71c8b444fdef616dd6628.js": "/my-app/precache-manifest.ea21829948e71c8b444fdef616dd6628.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.6248d95d.chunk.css.map": "/my-app/static/css/main.6248d95d.chunk.css.map",
+    "static/js/2.691a5a87.chunk.js.LICENSE.txt": "/my-app/static/js/2.691a5a87.chunk.js.LICENSE.txt",
+    "static/media/do.wav": "/my-app/static/media/do.18fd3f6f.wav",
+    "static/media/fa.wav": "/my-app/static/media/fa.a787534a.wav",
+    "static/media/la.wav": "/my-app/static/media/la.10af03f3.wav",
+    "static/media/mi.wav": "/my-app/static/media/mi.1f26c778.wav",
+    "static/media/re.wav": "/my-app/static/media/re.217b943a.wav",
+    "static/media/si.wav": "/my-app/static/media/si.70924435.wav",
+    "static/media/sol.wav": "/my-app/static/media/sol.785a33d2.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/runtime-main.58a6d01e.js",
     "static/js/2.691a5a87.chunk.js",
     "static/css/main.6248d95d.chunk.css",
-    "static/js/main.a4119ad3.chunk.js"
+    "static/js/main.5829538c.chunk.js"
   ]
 }
